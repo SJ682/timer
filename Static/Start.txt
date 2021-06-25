@@ -1,0 +1,4 @@
+starting this folder
+Now modifying it after tracking it which put this file on unmodified stage
+git diff, dff --staged.
+Commiting without staging.
