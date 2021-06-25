@@ -1,0 +1,9 @@
+Enter the no of elements : 
+Enter your 9 elemnts : 
+Enter the position you want to insert your element : 
+Enter the value to insert : 
+Your element is inserted at position 2
+Your elements are : 
+1 5 2 3 4 5 7 3 2 1 
+if you want to exit press -1 else to continue press 1 : 
+Thankyou for Visiting!!!
